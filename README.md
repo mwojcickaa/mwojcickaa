@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there! I'm Martyna👋 
 
-<!--
-**mwojcickaa/mwojcickaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
 
-Here are some ideas to get you started:
+I am just taking my first steps on the path to starting a career in the IT industry. I have become interested in web development. I have developed and acquired all the necessary skills and knowledge through over half a year of learning and working on my own projects. I consider myself an ambitious person who perseveres in pursuing my goals. I am keen on further developing both the skills I already possess and acquiring new ones that are useful, as well as gaining new experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack:
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Git, GitHub
+- Figma
+- Netlify
+- Jira
+
+### Languages Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mwojcickaa&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
